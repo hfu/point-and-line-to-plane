@@ -21,6 +21,29 @@ Excerpts from a famous writing by Wassily Kandinsky
 - Shock
 - From Within
 - Release
+- First Case
+- Second Case
+- Further Release
+- Independent Being
+- Through Collision
+- Concept
+- Size
+- At the Boundary
+- Abstract Form
+- Numerical Expression and Forumulae
+- Form
+- Basic Sound
+- Absolute Concepts
+- Inner Concept
+- Tension
+- Plane
+- Definintion
+- "Element" and Element
+- Time
+- The Point in Painting
+- Time in Painting
+- Number of Elements in an Art Work
+- Prototype
 
 TODO
 

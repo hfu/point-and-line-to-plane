@@ -44,10 +44,42 @@ Excerpts from a famous writing by Wassily Kandinsky
 - Time in Painting
 - Number of Elements in an Art Work
 - Prototype
-
-TODO
+- Concept of Composition
+- Single Sound as Composition Basis
+- Eccentric Structure
+- Quantitative Increase
+- Nature
+- Other Art Epressions
+- Sculpture and Architecture
+- The Dance
+- Music
+- Graphic Art
+- Techniques
+- Etching
+- Woodcut
+- Lithography
+- Atmosphere
+- Root
+- False Ways
+- Means
+- Material
+- Tools and Origin of the Point
+- Texture
+- Abstract Art
+- Force from Within
+- Force from Without
 
 # Line
+- Origin
+- Straight Line
+- Temperature
+- Plane Formation
+- Colour: Yellow and Blue
+- Black and White
+- Red
+- Proto-Sound
+
+TODO
 
 # Basic plane
 

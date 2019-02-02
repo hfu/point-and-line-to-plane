@@ -78,8 +78,44 @@ Excerpts from a famous writing by Wassily Kandinsky
 - Black and White
 - Red
 - Proto-Sound
+- The Lyric and the Dramatic
+- Linear Translation
+- Angular Lines
+- Angles
+- Lengths
+- Absolute Sound
+- Triple Sound
+- Three Sounds
+- Angular Lines and Colour
+- Plane and Colour
+- Line and Colour
+- Plane and Components
+- Method
+- International Art Institutes
+- Complex Angular Lines
+- Curved Lines
+- Contrasts in Lines
+- Plane
+- Contrast in Relation to the Plane
+- Three Pairs of Elements
+- Other Arts
+- Dictionary
+- Planes
+- Wave-like Line
+- Effects
+- Emphasis
+- Line and Plane
+- Outer Boundaries
+- Combined Line
+- Force
+- Compisition
+- Number
+- Complexes of Lines
+- Repetition
+- Composition
+- Time
 
-TODO
+TODO p. 98
 
 # Basic plane
 

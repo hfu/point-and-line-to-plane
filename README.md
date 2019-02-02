@@ -114,10 +114,79 @@ Excerpts from a famous writing by Wassily Kandinsky
 - Repetition
 - Composition
 - Time
-
-TODO p. 98
+- Other Arts
+- Music
+- The Dance
+- Sculpture
+- Architecture
+- Poetry
+- Technics
+- Cunstructivism
+- Nature
+- Geometric and Loose Structure
+- Thematic Structure
+- Art and Nature
+- The Graphics
+- The Woodcut
+- Line in Painting
+- Etching
+- Lithography
 
 # Basic plane
+- Concept
+- Pair of Lines
+- The Square
+- Nature of the BP
+- Sounds
+- Above and Below
+- Above
+- Below
+- Right and Left
+- Left
+- Right
+- Literary
+- Distance
+- Home
+- Relativity
+- Rest
+- Formats
+- Abstract Art
+- Structure
+- Further Tensions
+- Contrasts
+- Weight
+- Content
+- Method
+- Use
+- Contrast
+- External Parallels
+- Contrasts
+- Inner Parallels
+- Compisition Construction
+- History of Art
+- Art and Time
+- Examples
+- The Question of Form and Culture
+- Relative Sound
+- Left
+- Right
+- Above
+- Below
+- Plane upon Plane
+- Relation to the Border
+- The Lyric
+- The Dramatic
+- Increasing the Number of Sounds
+- Regularity
+- Further BP Forms
+- Various Angles
+- Circular Form
+- Oval Form
+- Free Form
+- Texture
+- Dematerialized Plane
+- The Observer
+- Goal of Theory
 
 # Source
 Wassily Kandinsky: Point and line to Plane, Dover Publications, Inc., New York (1979)
